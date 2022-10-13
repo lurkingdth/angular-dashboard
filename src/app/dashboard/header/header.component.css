@@ -1,0 +1,8 @@
+nav a{
+    padding-left: 10px;
+}
+nav p {
+    padding-right: 10px;
+    font-weight: 500;
+    font-size: larger;
+}
